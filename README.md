@@ -1,2 +1,2 @@
 # App_dev_ISTE
-The three apps for ISTE Workshop
+apps for ISTE Workshop
