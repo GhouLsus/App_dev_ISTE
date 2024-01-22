@@ -1,0 +1,3 @@
+[submodule "current-location-weather"]
+	path = current-location-weather
+	url = git@github.com:04ac/current-location-weather.git
